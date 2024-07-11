@@ -1,0 +1,273 @@
+* {
+  text-decoration: none;
+
+  color: rgba(232, 235, 228, 255);
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+
+.navbar {
+  background-color: rgba(22, 46, 63, 255);
+  margin: 30px 110px 0px 150px;
+  border-radius: 90px;
+}
+
+.navdiv {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.logo {
+  font-size: 2rem;
+  margin-left: 40px;
+  margin-right: 650px;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  text-decoration: none;
+  margin-right: 90px;
+  margin-top: 100px;
+  font-size: 1.5rem;
+}
+
+ul {
+  margin-left: 30px;
+}
+
+.login {
+  margin-left: 350px;
+  padding: 0px;
+  padding-right: 0px;
+  border: none;
+  background: none;
+  display: inline-block;
+}
+
+.login a {
+  color: rgba(68, 176, 156, 255);
+  font-size: large;
+  padding-left: 210px;
+}
+
+.navbar a:hover {
+  color: rgba(68, 176, 156, 255);
+}
+
+.login a:hover {
+  color: white;
+}
+
+
+body {
+  background-image: url(1.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 90%;
+  background-color: rgba(240, 229, 210, 255);
+  margin-top: 100px;
+}
+
+h1 {
+  color: rgba(7, 25, 43, 255);
+  font-size: 10rem;
+  margin-bottom: 0px;
+}
+
+h3 {
+  color: rgba(28, 37, 47, 255);
+  font-size: 4rem;
+  line-height: 1.5rem;
+  margin-bottom: 0px;
+}
+
+h6 {
+  color: rgba(49, 46, 52, 255);
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+  margin-bottom: 20px;
+}
+
+.ex {
+  color: rgba(49, 46, 52, 255);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 10px 0px;
+  padding: 15px 37px;
+  border: none;
+  border-radius: 40px;
+  background-color: rgba(240, 229, 210, 255)
+}
+
+.see {
+  color: rgba(49, 46, 52, 255);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 10px 0px;
+  padding: 15px 37px;
+  border: none;
+  border-radius: 40px;
+  background-color: rgba(240, 229, 210, 255);
+}
+
+.ex {
+  background-color: rgba(255, 87, 16, 255);
+  color: white;
+  border: none;
+}
+
+button:hover {
+  color: rgba(49, 46, 52, 255);
+}
+
+section {
+  margin-left: 150px;
+  margin-top: 250px;
+  margin-right: 1000px;
+}
+
+
+form {
+  display: inline-block;
+}
+
+.date {
+  display: inline-block;
+  font-size: 1.5rem;
+}
+
+#date {
+  font-size: 1.2rem;
+  width: 150px;
+  height: 60px;
+  border-radius: 20px;
+  color: rgba(37, 32, 30, 255);
+  justify-content: center;
+}
+
+.time {
+  display: inline-block;
+  font-size: 1.5rem;
+
+}
+
+#time {
+  font-size: 1.2rem;
+  width: 150px;
+  height: 60px;
+  border-radius: 20px;
+  color: rgba(37, 32, 30, 255);
+  justify-content: right;
+}
+
+.mail {
+  display: inline-block;
+  font-size: 1.5rem;
+}
+
+#mail {
+  font-size: 1.2rem;
+  width: 200px;
+  height: 60px;
+  border-radius: 20px;
+  color: rgba(37, 32, 30, 255);
+
+}
+
+.Cheek {
+  margin-left: 100px;
+  font-size: 1.2rem;
+  width: 150px;
+  height: 60px;
+  border-radius: 20px;
+  color: rgba(37, 32, 30, 255);
+}
+
+label {
+  color: rgba(40, 34, 35, 255);
+}
+
+.form {
+  background-color: white;
+  width: 2100px;
+  height: 240px;
+  border-radius: 100px;
+  margin-top: 500px;
+  margin-left: 210px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.test {
+  margin-top: -266px;
+  margin-left: 1024px;
+  color: rgba(249, 171, 83, 255);
+}
+
+h2 {
+  margin-left: 1130px;
+  color: rgba(13, 24, 41, 255);
+}
+
+span {
+  color: rgba(1, 18, 37, 255);
+}
+
+/*.part-1{
+padding-right: 1000px;
+margin-left: 100px;
+display: inline-block;
+}
+.meat-desc{
+  padding-top: 0px;
+  padding-left: 0px;
+}
+.part-2{
+  padding-right: 1000px;
+  margin-left: -100px;
+  display: inline-block;
+}
+.fish-desc{
+    padding-top: 0px;
+    padding-left: 0px;
+}
+.part-3{
+    padding-right: 1000px;
+    margin-left: -100px;
+    display: inline-block;
+}
+.drinks-desc{
+      padding-top: 0px;
+      padding-left: 0px;
+}*/
+.middle-container {
+  display: flex;
+  padding-right: 70px;
+}
+
+img {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+.meat-desc {
+  color: rgba(1, 18, 37, 255);
+}
+
+.fish-desc {
+  color: rgba(1, 18, 37, 255);
+}
+
+.drinks-desc {
+  color: rgba(1, 18, 37, 255);
+}
+
+.light {
+  padding-left: 950px;
+  padding-top: -5900px;
+}
